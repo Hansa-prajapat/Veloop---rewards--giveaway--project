@@ -2,9 +2,6 @@
 
 
 
-🌐 [Live Demo](https://hansa-prajapat.github.io/veloop-rewards-giveaway/) •
-💻 [GitHub Repository](https://github.com/Hansa-prajapat/veloop-rewards-giveaway
-
 
 
 A responsive frontend demonstration built with HTML, CSS and JavaScript.
