@@ -3,6 +3,10 @@
 https://github.com/Hansa-prajapat/Veloop---rewards--giveaway--project/tree/main
 
 
+live demo:
+https://hansa-prajapat.github.io/Veloop---rewards--giveaway--project/
+
+
 
 A responsive frontend demonstration built with HTML, CSS and JavaScript.
 
